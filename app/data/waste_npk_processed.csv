@@ -1,0 +1,81 @@
+Waste_Type,Nitrogen_mg,Phosphorus_mg,Potassium_mg,recipe_text,N_level,N_score,P_level,P_score,K_level,K_score,target_class
+Coffee Grounds,2293,430,428,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Cooked Meat,4218,312,575,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Lettuce Leaf,185,30,103,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Cooked Meat,3561,279,465,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Low,1,High_N_Waste
+Orange Skin,150,28,230,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Orange Skin,147,26,169,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Coffee Grounds,1946,489,398,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Egg Shell,421,148,190,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,V. Low,0,High_N_Waste
+Coffee Grounds,1739,467,446,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Orange Skin,125,27,249,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Potato Peel,2627,281,279,Good general NPK blend. Mix into compost or create a potato peel tea.,Medium,2,Medium,2,Low,1,High_N_Waste
+Potato Peel,3931,240,308,Good general NPK blend. Mix into compost or create a potato peel tea.,Medium,2,Medium,2,Low,1,High_N_Waste
+Coffee Grounds,2433,472,441,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Coffee Grounds,2435,339,305,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Cooked Meat,4728,348,507,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Egg Shell,425,188,169,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,V. Low,0,High_N_Waste
+Tea Bag,4470,671,1913,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Coffee Grounds,2201,434,453,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Banana Skin,535,143,3095,Excellent K source. Steep in water for liquid feed or bury near fruiting plants.,Low,1,Low,1,High,3,High_K_Waste
+Orange Skin,163,31,286,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Cooked Meat,3370,265,590,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Orange Skin,177,33,261,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Tea Bag,4720,691,2675,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Coffee Grounds,2776,397,493,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Tea Bag,4084,734,1982,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Lettuce Leaf,191,23,115,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Lettuce Leaf,176,31,113,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Egg Shell,537,158,166,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,V. Low,0,High_N_Waste
+Cooked Meat,2729,340,492,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Low,1,High_N_Waste
+Orange Skin,128,36,256,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Orange Skin,166,28,281,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Tea Bag,3614,731,2597,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Coffee Grounds,2547,325,516,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Cooked Meat,3419,320,487,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Low,1,High_N_Waste
+Potato Peel,3344,234,270,Good general NPK blend. Mix into compost or create a potato peel tea.,Medium,2,Medium,2,Low,1,High_N_Waste
+Cooked Meat,3423,213,498,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Low,1,High_N_Waste
+Tea Bag,4456,736,2469,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Tea Bag,4337,639,2341,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Orange Skin,194,21,221,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Lettuce Leaf,205,33,86,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Lettuce Leaf,210,29,118,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Lettuce Leaf,188,27,113,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Potato Peel,3579,319,250,Good general NPK blend. Mix into compost or create a potato peel tea.,Medium,2,Medium,2,Low,1,High_N_Waste
+Cooked Meat,3141,230,505,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Lettuce Leaf,212,18,107,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Tea Bag,5125,662,2708,Highly concentrated N/K liquid feed. Must be diluted 1:20.,High,3,Medium,2,Medium,2,High_N_Waste
+Orange Skin,111,30,287,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Coffee Grounds,2557,325,320,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Lettuce Leaf,203,30,113,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Orange Skin,144,31,281,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Banana Skin,542,117,2935,Excellent K source. Steep in water for liquid feed or bury near fruiting plants.,Low,1,Low,1,Medium,2,High_K_Waste
+Banana Skin,354,98,3295,Excellent K source. Steep in water for liquid feed or bury near fruiting plants.,Low,1,Low,1,High,3,High_K_Waste
+Tea Bag,4496,659,2326,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Lettuce Leaf,166,31,114,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Tea Bag,4928,1021,2005,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,High,3,Medium,2,High_P_Waste
+Potato Peel,3545,296,315,Good general NPK blend. Mix into compost or create a potato peel tea.,Medium,2,Medium,2,Low,1,High_N_Waste
+Potato Peel,3132,339,358,Good general NPK blend. Mix into compost or create a potato peel tea.,Medium,2,Medium,2,Low,1,High_N_Waste
+Coffee Grounds,1996,315,397,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Egg Shell,567,179,179,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,V. Low,0,High_N_Waste
+Potato Peel,3291,289,332,Good general NPK blend. Mix into compost or create a potato peel tea.,Medium,2,Medium,2,Low,1,High_N_Waste
+Tea Bag,4413,735,3294,Highly concentrated N/K liquid feed. Must be diluted 1:20.,Medium,2,Medium,2,High,3,High_K_Waste
+Orange Skin,184,27,279,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
+Egg Shell,363,158,117,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,V. Low,0,High_N_Waste
+Cooked Meat,3359,307,528,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Lettuce Leaf,165,36,87,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Cooked Meat,2960,339,579,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Banana Skin,533,152,2699,Excellent K source. Steep in water for liquid feed or bury near fruiting plants.,Low,1,Low,1,Medium,2,High_K_Waste
+Cooked Meat,2611,323,788,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Egg Shell,366,176,137,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,V. Low,0,High_N_Waste
+Coffee Grounds,3250,397,367,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Coffee Grounds,2345,435,280,N-rich and acidic. Use sparingly around acid-loving plants.,Medium,2,Medium,2,Low,1,High_N_Waste
+Lettuce Leaf,212,26,110,High moisture green. Best used as a compost accelerant.,V. Low,0,V. Low,0,V. Low,0,High_N_Waste
+Egg Shell,472,175,169,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,V. Low,0,High_N_Waste
+Banana Skin,403,144,3372,Excellent K source. Steep in water for liquid feed or bury near fruiting plants.,Low,1,Low,1,High,3,High_K_Waste
+Egg Shell,393,166,223,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,Low,1,High_N_Waste
+Cooked Meat,3272,322,564,Use only via Bokashi or controlled anaerobic process due to pathogens.,Medium,2,Medium,2,Medium,2,High_N_Waste
+Egg Shell,307,170,184,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,V. Low,0,High_N_Waste
+Egg Shell,434,190,224,Primarily Calcium source. Grind to powder and till into soil to adjust pH.,Low,1,Low,1,Low,1,High_N_Waste
+Potato Peel,2631,310,284,Good general NPK blend. Mix into compost or create a potato peel tea.,Medium,2,Medium,2,Low,1,High_N_Waste
+Orange Skin,131,31,279,Acidic. Use for acid-loving plants or balance with lime in compost.,V. Low,0,V. Low,0,Low,1,High_K_Waste
