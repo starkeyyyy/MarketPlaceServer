@@ -1,23 +1,25 @@
-# app/config/api.py 
-import joblib
-import pandas as pd
+# app/config/api.py
+
 from fastapi import FastAPI
-from pathlib import Path
+from app.routes.uploads.photo_upload import router as upload_router
+from starlette.middleware.cors import CORSMiddleware
+# ... other imports (Pandas, joblib, etc. for the real app) ...
 
-BASE_DIR = Path(__file__).parent.parent.parent 
-DATA_PATH = '/Users/varun/Desktop/ML code/MarketPlaceServer/app/data/'
-MODEL_PATH = '/Users/varun/Desktop/ML code/MarketPlaceServer/app/data/waste_recommender_model.joblib'
+# NOTE: Minimal placeholder for APP_STATE to prevent crashes
+APP_STATE = {
+    'WASTE_DF_PROCESSED': None # Will be loaded in a real service
+}
 
-try:
-    APP_STATE = {
-        'CROP_DF': pd.read_csv(DATA_PATH + 'crop_npk_requirements.csv'),
-        'OFFERS_DF': pd.read_csv(DATA_PATH + 'offers.csv'),
-        'PRODUCER_DF': pd.read_csv(DATA_PATH + 'waste_producers.csv'),
-        'WASTE_DF_PROCESSED': pd.read_csv(DATA_PATH + 'waste_npk_processed.csv'),
-        'WASTE_MODEL': joblib.load(MODEL_PATH),
-    }
-except FileNotFoundError as e:
-    print(f"CRITICAL ERROR: Data or Model missing. Please check {DATA_PATH} directory.")
-    raise e
+app = FastAPI(title="Waste Analysis Interface")
 
-app = FastAPI(title="Waste-to-Fertilizer Bargain API") 
+# Include the file upload router
+app.include_router(upload_router, prefix="/api/v1") 
+
+# Add CORS middleware (essential for frontend testing)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
